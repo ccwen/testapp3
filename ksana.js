@@ -1,6 +1,6 @@
 jsonp_handler({
  "version": "1",
- "build": 2,
+ "build": 3,
  "title": "testapp3",
  "minruntime": 4,
  "baseurl": "http:/rawgit.com/ksanaforge/testapp3/master/",
@@ -12,8 +12,6 @@ jsonp_handler({
   "jquery.js",
   "react-with-addons.js",
   "ksana.js",
-  "bootstrap.min.js",
-  "bootstrap.min.css",
   "sample.kdb"
  ],
  "filesizes": [
@@ -22,21 +20,17 @@ jsonp_handler({
   142395,
   277980,
   625422,
-  320,
-  35601,
-  113498,
+  722,
   97570
  ],
  "filedates": [
   "2015-01-15T13:45:35.000Z",
   "2015-01-15T13:45:35.000Z",
-  "2015-01-15T13:46:26.000Z",
+  "2015-01-15T14:11:26.000Z",
   "2015-01-15T13:45:35.000Z",
   "2015-01-15T13:45:35.000Z",
-  "2015-01-15T13:45:35.000Z",
-  "2015-01-15T13:45:35.000Z",
-  "2015-01-15T13:45:35.000Z",
+  "2015-01-15T14:10:54.000Z",
   "2015-01-15T13:45:38.000Z"
  ],
- "date": "2015-01-15T13:46:27.441Z"
+ "date": "2015-01-15T14:11:27.291Z"
 })
